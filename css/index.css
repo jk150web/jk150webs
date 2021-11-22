@@ -1,7 +1,5 @@
 body{
-    background-image: url("C:/Users/reymo/OneDrive/Desktop/John Kyle M. Binungcal/SixtyTunes/img/background.png");
-    background-size: 100%;  
-    background-attachment: fixed;
+    background-image: linear-gradient(dodgerblue,blue);
 }
 
 div{
