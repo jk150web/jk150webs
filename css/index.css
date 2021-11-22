@@ -1,0 +1,49 @@
+body{
+    background-image: url("C:/Users/reymo/OneDrive/Desktop/John Kyle M. Binungcal/SixtyTunes/img/background.png");
+    background-size: 100%;  
+    background-attachment: fixed;
+}
+
+div{
+    color: white;
+    text-shadow: black 1px 1px;
+    -webkit-text-stroke: 0.3px black;
+    font-family: 'Press Start 2P', cursive;
+    letter-spacing: -1px;
+    font-size: .90vw;
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.img-response{
+    width: 30%;
+    height: auto;
+}
+
+.container { 
+    height: 200px;
+    position: relative;
+}
+
+.button {
+    background: linear-gradient(rgb(0, 182, 255), blue);
+    border-radius: 15%;
+    box-shadow: black 1.5px 1.5px;
+    border: blue solid 1px;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+table {
+    width: 100%;
+  }
