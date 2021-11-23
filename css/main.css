@@ -98,3 +98,13 @@ th a:link a:visited{
 .ftlink{
     color: white;
 }
+
+.tablecontainer{
+    margin-left: 8%;
+    margin-right: 8%;
+}
+
+.tablecontainer-list{
+    margin-left: 12%;
+    margin-right: 12%;
+}
