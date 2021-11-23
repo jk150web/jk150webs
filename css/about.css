@@ -1,7 +1,7 @@
 div{
     font-family: 'Press Start 2P', cursive;
     letter-spacing: -1px;
-    font-size: .85vw;
+    font-size: 1vw;
 }
 
 body{
@@ -97,4 +97,8 @@ th a:link a:visited{
 
 .ftlink{
     color: white;
+}
+
+.box{
+    background: rgba(0, 0, 0, 0.5);
 }
